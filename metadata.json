@@ -1,0 +1,6 @@
+{
+  "name": "Portfolio Chu Tuệ Minh",
+  "description": "Portfolio kỹ năng số của Chu Tuệ Minh, sinh viên ngành Sư phạm Anh tại ULIS – ĐHQGHN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
