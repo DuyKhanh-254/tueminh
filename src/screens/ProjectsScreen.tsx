@@ -12,7 +12,7 @@ const projects = [
   {
     number: 2,
     label: 'NGHIÊN CỨU HỌC THUẬT',
-    title: 'Tác động của truyền thông tới quan hệ xã hội',
+    title: 'Tìm kiếm và đánh giá thông tin học thuật',
     description: 'Đánh giá 10 nguồn về tương tác trực tiếp (FtF) và tương tác qua máy tính (CMC), từ Google Scholar, JSTOR, Pew Research và các tạp chí chuyên ngành.',
     accent: 'border-secondary-container',
     tag: 'text-on-secondary-container bg-secondary-fixed/50',
@@ -20,7 +20,7 @@ const projects = [
   {
     number: 3,
     label: 'PROMPT ENGINEERING',
-    title: 'Nghiên cứu và thử nghiệm prompt trong học tập',
+    title: 'Viết prompt hiệu quả cho các tác vụ học tập',
     description: 'So sánh prompt cơ bản, cải tiến và nâng cao trên ba tác vụ: tóm tắt học thuật, giải thích lạm phát và tạo câu hỏi Cách mạng tháng Tám.',
     accent: 'border-primary-container',
     tag: 'text-on-primary-container bg-primary-fixed',
@@ -28,7 +28,7 @@ const projects = [
   {
     number: 4,
     label: 'CỘNG TÁC TRỰC TUYẾN',
-    title: 'Năng lực quản lý và điều phối dự án',
+    title: 'Sử dụng công cụ hợp tác trực tuyến cho dự án nhóm',
     description: 'Ghi lại vai trò trưởng nhóm/phụ trách nội dung và quá trình dùng Trello, Google Docs, Drive, Zalo, Meet để hoàn thành dự án trong một tuần.',
     accent: 'border-error/50',
     tag: 'text-error bg-error-container/50',
@@ -36,7 +36,7 @@ const projects = [
   {
     number: 5,
     label: 'SÁNG TẠO VỚI AI',
-    title: 'Be the Change for Earth',
+    title: 'Sử dụng AI tạo sinh để hỗ trợ sáng tạo nội dung',
     description: 'Poster infographic môi trường được xây dựng với Gemini, ChatGPT và Canva AI; phân tích rõ phần AI hỗ trợ, phần con người biên tập và vấn đề đạo đức.',
     accent: 'border-primary-container',
     tag: 'text-on-primary-container bg-primary-fixed',
@@ -44,7 +44,7 @@ const projects = [
   {
     number: 6,
     label: 'AI CÓ TRÁCH NHIỆM',
-    title: 'Phối hợp với AI trong nhiệm vụ học tập',
+    title: 'Sử dụng AI có trách nhiệm trong học tập và nghiên cứu',
     description: 'Dùng Claude hỗ trợ tổng hợp tài liệu về mạng xã hội và tâm lý học đường; bản địa hóa, kiểm chứng, trích dẫn minh bạch và xây dựng bộ 5C cá nhân.',
     accent: 'border-surface-tint',
     tag: 'text-surface-tint bg-surface-variant',
